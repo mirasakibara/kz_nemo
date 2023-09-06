@@ -1,0 +1,1 @@
+stt_kz_quartznet15x5.nemo filter=lfs diff=lfs merge=lfs -text
